@@ -13,7 +13,7 @@ A simple command-line chess game implemented in Go using the `github.com/notnil/
 Ensure you have Go installed on your system. Then, clone the repository and navigate to the project directory:
 
 ```sh
-$ git clone https://github.com/yourusername/chess-game.git
+$ git clone https://github.com/nomannaq/Gambit-GolangChessBot
 $ cd chess-game
 ```
 
