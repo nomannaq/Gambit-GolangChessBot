@@ -8,6 +8,6 @@ import (
 
 func main() {
 	fmt.Println("Welcome to Golang Chess Bot!")
-	fmt.Println("You are playing as White. Enter moves in algebraic notation (e.g., e2e4).")
+	fmt.Println("You are playing as White. Enter moves in algebraic notation (e.g., e4).")
 	game.PlayGame()
 }
