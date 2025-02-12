@@ -38,7 +38,7 @@ func handlePlayerMove(game *chess.Game) {
 
 	// Check the valid moves for the current position
 	validMoves := game.ValidMoves()
-	fmt.Println("Valid moves:", validMoves)
+	fmt.Println("Valid moHandlves:", validMoves)
 
 	// Decode the move using AlgebraicNotation
 	move, err := chess.AlgebraicNotation{}.Decode(game.Position(), userMove)
